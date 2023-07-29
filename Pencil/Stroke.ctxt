@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Stroke
+comment0.text=\n\ Stroke\ class\n
+comment1.params=c\ lw
+comment1.target=Stroke(java.awt.Color,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Stroke\n
+comment2.params=x\ y
+comment2.target=void\ addCoords(double,\ double)
+comment3.params=
+comment3.target=double\ getLineWidth()
+comment4.params=
+comment4.target=java.awt.Color\ getColour()
+comment5.params=
+comment5.target=java.util.List\ getXCoords()
+comment6.params=
+comment6.target=java.util.List\ getYCoords()
+comment7.params=
+comment7.target=void\ draw()
+numComments=8
